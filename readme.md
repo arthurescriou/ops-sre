@@ -23,7 +23,7 @@ Pour obtenir des résultats réalistes et intéressants on veut limiter les ress
 En effet dans le cas de déploiement sur des serveurs dans le cloud ou chez un fournisseurs de machine virtuelle les machines ont rarement autant de ressources que nos ordinateurs.
 
 Par exemple les VM d'aws EC2 de base ont 2 giga de ram et 1 seul CPU.
-On veut donc limiter de la même manière les ressources donné à strapi et à sa base à l'aide de docker.
+On veut donc limiter de la même manière les ressources données à strapi et à sa base à l'aide de docker.
 
 #### Charge
 
