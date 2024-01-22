@@ -7,7 +7,7 @@ Pour simuler différents scénarios et détecter les limites de perfomances du p
 ## Rappel de l'infrastructure
 
 L'infrastructure du projet doit comporter un strapi (le coeur du système) et sa base de données.
-Au déploiement les deux doivent séparés pour pouvoir monter en charge indépendamment.
+Au déploiement les deux doivent être séparés pour pouvoir monter en charge indépendamment.
 
 Il faut aussi ajouter un système pour récupérer les logs: prometheus/grafana.
 Afin d'enregistrer les différentes variations de l'application (nombre d'appel, delai des requêtes, mémoire, etc).
